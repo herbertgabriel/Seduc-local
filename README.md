@@ -1,0 +1,1 @@
+Este projeto é composto por duas partes: o Back-End(seduc-api) e o Front-End(seduc-front-end). Para executar o projeto, primeiro inicie o back-end e, em seguida front-end, siga as instruções no README.md dos repositórios.
