@@ -10,5 +10,3 @@ O projeto é composto por duas partes: o Back-End (seduc-api) e o Front-End (sed
   <a href="https://github.com/herbertgabriel"><img height="50px" width="50px" src="https://avatars.githubusercontent.com/u/142347988?s=64&v=4"/></a>
   <a href="https://github.com/italo1101"><img height="50px" width="50px" src="https://avatars.githubusercontent.com/u/178419847?s=64&v=4"/></a>
 </div>
----
-
